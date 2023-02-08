@@ -1,3 +1,4 @@
+
 function changeColor(newColor) {
     var bodyElement = document.getElementById('page_color');
     if (newColor == 'black') {
